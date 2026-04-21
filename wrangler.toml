@@ -1,0 +1,10 @@
+name = "profitbot"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[[kv_namespaces]]
+binding = "PROFITBOT_KV"
+id = "AUTO"
+
+[triggers]
+crons = ["55 20 * * 1-5"]
