@@ -4,7 +4,7 @@ compatibility_date = "2025-01-01"
 
 [[kv_namespaces]]
 binding = "PROFITBOT_KV"
-id = "AUTO"
+id = "3812a41102d34c0d86cffe44ea2d9d70"
 
 [triggers]
 crons = ["55 20 * * 1-5"]
